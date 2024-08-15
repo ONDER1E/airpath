@@ -1,2 +1,2 @@
 const pathfinder = require("./getRegionsAlongPath.js")
-console.log(pathfinder.getRegionsAlongPath("IRFD", "IPPH"))
+console.log(pathfinder.getRegionsAlongPath("ISAU", "IZOL"))
